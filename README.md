@@ -11,6 +11,7 @@ My first bioinformatics project written in Python.
 - DNA sequence validation
 - Nucleotide counting
 - GC content calculation
+- DNA to RNA transcription
 
 ## Author
 
